@@ -1,0 +1,11 @@
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\bin\Debug\netcoreapp2.2\FcmConsoleDemo.deps.json
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\bin\Debug\netcoreapp2.2\FcmConsoleDemo.runtimeconfig.json
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\bin\Debug\netcoreapp2.2\FcmConsoleDemo.runtimeconfig.dev.json
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\bin\Debug\netcoreapp2.2\FcmConsoleDemo.dll
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\obj\Debug\netcoreapp2.2\FcmConsoleDemo.csprojAssemblyReference.cache
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\obj\Debug\netcoreapp2.2\FcmConsoleDemo.csproj.CoreCompileInputs.cache
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\obj\Debug\netcoreapp2.2\FcmConsoleDemo.AssemblyInfoInputs.cache
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\obj\Debug\netcoreapp2.2\FcmConsoleDemo.AssemblyInfo.cs
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\bin\Debug\netcoreapp2.2\FcmConsoleDemo.pdb
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\obj\Debug\netcoreapp2.2\FcmConsoleDemo.dll
+C:\workspace\FcmConsoleDemo\FcmConsoleDemo\obj\Debug\netcoreapp2.2\FcmConsoleDemo.pdb
